@@ -68,7 +68,5 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reshavji&" alt="Altamash" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahista786" alt="Altamash" /></a> </p>
 
